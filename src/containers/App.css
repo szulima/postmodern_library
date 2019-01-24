@@ -1,0 +1,11 @@
+@font-face {
+font-family: 'Penis Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Penis Bold'), url('Penis.woff') format('woff');
+}
+
+h1 {
+	font-family: 'Penis Bold';
+	color: white;
+}
